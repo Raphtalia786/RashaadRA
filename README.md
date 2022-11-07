@@ -9,7 +9,7 @@
   
    <li>I enjoy coding as it has always interested me in creating things that people take joy in using. </li> <br/>
      
-   <li>I have aquired my NQF </li> <br/>
+   <li>I have aquired my NQF level 4 national certificate. </li> <br/>
    
    
    ## 🔧 Technologies & Tools
