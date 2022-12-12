@@ -15,6 +15,6 @@
    ## 🔧 Technologies & Tools
    
    ![](https://img.shields.io/badge/Code-Android-informational?style=for-the-badge&logo=Android&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
-  ![](https://img.shields.io/badge/Code-HTML and CSS-informational?style=for-the-badge&logo=HTML&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
+  ![](https://img.shields.io/badge/Code-HTML-informational?style=for-the-badge&logo=HTML&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
   ![](https://img.shields.io/badge/Code-Javascript-informational?style=for-the-badge&logo=Javascript&logoColor=162f57&color=c1dff7&labelColor=c1dff7)
     <br/> <br/>
